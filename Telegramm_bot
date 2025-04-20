@@ -90,7 +90,8 @@ async def abbrechen(update: Update, context: ContextTypes.DEFAULT_TYPE):
     return ConversationHandler.END
 
 if __name__ == '__main__':
-    app = ApplicationBuilder().token("from telegram import Update, ReplyKeyboardMarkup
+    app = ApplicationBuilder().token()()"Here is the token for bot Ideal-Systeme.de @IdealSysteme_bot:
+7686857133:AAGghxeHfFpCjm5Z99JFm4W1Y4u_ZnyYcTE").build()
 from telegram.ext import (
     ApplicationBuilder, CommandHandler, MessageHandler, filters,
     ConversationHandler, ContextTypes
