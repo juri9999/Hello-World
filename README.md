@@ -92,7 +92,9 @@ async def abbrechen(update: Update, context: ContextTypes.DEFAULT_TYPE):
     return ConversationHandler.END
 
 if __name__ == '__main__':
-    app = ApplicationBuilder().token("DEIN_BOT_TOKEN_HIER").build()
+    app = ApplicationBuilder().token(Here is the token for bot Ideal-Systeme.de @IdealSysteme_bot:
+
+7686857133:AAGghxeHfFpCjm5Z99JFm4W1Y4u_ZnyYcTE)build()
 
     conv_handler = ConversationHandler(
         entry_points=[CommandHandler("start", start)],
