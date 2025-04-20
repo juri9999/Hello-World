@@ -110,6 +110,6 @@ if __name__ == '__main__':
 
     app.add_handler(conv_handler)
     print("Fenster-Konfigurator läuft...")
-    app.run_polling()Here is the token for bot Ideal-Systeme.de @IdealSysteme_bot:
+    app.run_polling(Here is the token for bot Ideal-Systeme.de @IdealSysteme_bot:
 
-7686857133:AAGghxeHfFpCjm5Z99JFm4W1Y4u_ZnyYcTE
+7686857133:AAGghxeHfFpCjm5Z99JFm4W1Y4u_ZnyYcTE)Here is the token for bot Ideal-Systeme.de @IdealSysteme_bot
